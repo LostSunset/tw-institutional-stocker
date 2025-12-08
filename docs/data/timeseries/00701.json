@@ -180,10 +180,10 @@
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.65,
+    "trust_ratio": 1.9926993675968243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
+    "three_inst_ratio": 2.6426993675968244,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -191,10 +191,10 @@
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.68,
+    "trust_ratio": 2.0101492615733547,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
+    "three_inst_ratio": 2.690149261573355,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -202,10 +202,10 @@
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.7,
+    "trust_ratio": 2.023438567417835,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
+    "three_inst_ratio": 2.723438567417835,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -213,10 +213,10 @@
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.66,
+    "trust_ratio": 2.3059530787911378,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
+    "three_inst_ratio": 2.965953078791138,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -224,373 +224,373 @@
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.71,
+    "trust_ratio": 2.316161334448916,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 3.0261613344489158,
+    "three_inst_ratio_change_20": 3.0261613344489158
   },
   {
     "date": "2025-10-15",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.73,
+    "trust_ratio": 2.316161334448916,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 3.046161334448916,
+    "three_inst_ratio_change_20": 3.046161334448916
   },
   {
     "date": "2025-10-16",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.73,
+    "trust_ratio": 2.316161334448916,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 3.046161334448916,
+    "three_inst_ratio_change_20": 3.046161334448916
   },
   {
     "date": "2025-10-17",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.75,
+    "trust_ratio": 2.316161334448916,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 3.066161334448916,
+    "three_inst_ratio_change_20": 3.066161334448916
   },
   {
     "date": "2025-10-20",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.78,
+    "trust_ratio": 2.316161334448916,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 3.096161334448916,
+    "three_inst_ratio_change_20": 3.096161334448916
   },
   {
     "date": "2025-10-21",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.78,
+    "trust_ratio": 2.3212994307669783,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 3.1012994307669786,
+    "three_inst_ratio_change_20": 3.1012994307669786
   },
   {
     "date": "2025-10-22",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.78,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 3.1064603741368044,
+    "three_inst_ratio_change_20": 3.1064603741368044
   },
   {
     "date": "2025-10-23",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.77,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 3.096460374136804,
+    "three_inst_ratio_change_20": 3.096460374136804
   },
   {
     "date": "2025-10-27",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.74,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 3.0664603741368044,
+    "three_inst_ratio_change_20": 3.0664603741368044
   },
   {
     "date": "2025-10-28",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.73,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 3.056460374136804,
+    "three_inst_ratio_change_20": 3.056460374136804
   },
   {
     "date": "2025-10-29",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.6,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.9264603741368043,
+    "three_inst_ratio_change_20": 2.9264603741368043
   },
   {
     "date": "2025-10-30",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.41,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.7364603741368043,
+    "three_inst_ratio_change_20": 2.7364603741368043
   },
   {
     "date": "2025-10-31",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.32,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.646460374136804,
+    "three_inst_ratio_change_20": 2.646460374136804
   },
   {
     "date": "2025-11-03",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.31,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.6364603741368042,
+    "three_inst_ratio_change_20": 2.6364603741368042
   },
   {
     "date": "2025-11-04",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.31,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.6364603741368042,
+    "three_inst_ratio_change_20": 2.6364603741368042
   },
   {
     "date": "2025-11-05",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.33,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.6564603741368042,
+    "three_inst_ratio_change_20": 2.6564603741368042
   },
   {
     "date": "2025-11-06",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.35,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.6764603741368043,
+    "three_inst_ratio_change_20": 0.03376100653997982
   },
   {
     "date": "2025-11-07",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.34,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.666460374136804,
+    "three_inst_ratio_change_20": -0.023688887436550843
   },
   {
     "date": "2025-11-10",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.34,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.666460374136804,
+    "three_inst_ratio_change_20": -0.05697819328103115
   },
   {
     "date": "2025-11-11",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.38,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.706460374136804,
+    "three_inst_ratio_change_20": -0.25949270465433383
   },
   {
     "date": "2025-11-12",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.43,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.7564603741368043,
+    "three_inst_ratio_change_20": -0.26970096031211144
   },
   {
     "date": "2025-11-13",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.42,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.746460374136804,
+    "three_inst_ratio_change_20": -0.2997009603121117
   },
   {
     "date": "2025-11-14",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.39,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.7164603741368043,
+    "three_inst_ratio_change_20": -0.3297009603121115
   },
   {
     "date": "2025-11-17",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.36,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.686460374136804,
+    "three_inst_ratio_change_20": -0.37970096031211176
   },
   {
     "date": "2025-11-18",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.33,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.6564603741368042,
+    "three_inst_ratio_change_20": -0.4397009603121118
   },
   {
     "date": "2025-11-19",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.31,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.6364603741368042,
+    "three_inst_ratio_change_20": -0.46483905663017433
   },
   {
     "date": "2025-11-20",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.31,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.6364603741368042,
+    "three_inst_ratio_change_20": -0.4700000000000002
   },
   {
     "date": "2025-11-21",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.29,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.616460374136804,
+    "three_inst_ratio_change_20": -0.48
   },
   {
     "date": "2025-11-24",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.3,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.626460374136804,
+    "three_inst_ratio_change_20": -0.4400000000000004
   },
   {
     "date": "2025-11-25",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.24,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.5664603741368044,
+    "three_inst_ratio_change_20": -0.48999999999999977
   },
   {
     "date": "2025-11-26",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.23,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.556460374136804,
+    "three_inst_ratio_change_20": -0.3700000000000001
   },
   {
     "date": "2025-11-27",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.27,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.596460374136804,
+    "three_inst_ratio_change_20": -0.14000000000000012
   },
   {
     "date": "2025-11-28",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.27,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.596460374136804,
+    "three_inst_ratio_change_20": -0.04999999999999982
   },
   {
     "date": "2025-12-01",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.31,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
+    "three_inst_ratio": 2.6364603741368042,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -598,10 +598,10 @@
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.31,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
+    "three_inst_ratio": 2.6364603741368042,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -609,32 +609,32 @@
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.32,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.646460374136804,
+    "three_inst_ratio_change_20": -0.010000000000000231
   },
   {
     "date": "2025-12-04",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.32,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.646460374136804,
+    "three_inst_ratio_change_20": -0.03000000000000025
   },
   {
     "date": "2025-12-05",
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.32,
+    "trust_ratio": 2.326460374136804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 2.646460374136804,
+    "three_inst_ratio_change_20": -0.020000000000000018
   }
 ]

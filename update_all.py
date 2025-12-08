@@ -231,7 +231,7 @@ def fetch_twse_mi_qfiis(trade_date: date) -> pd.DataFrame:
     foreign_ratio_col = find_col_any(df, ["全體外資及陸資持股比率"])
 
     out = pd.DataFrame()
-    out["code"] = df[code_col].astype(str).str.strip().str.zfill(4)
+    out["code"] = df[code_col].astype(str).str.replace("=", "").str.replace('"', "").str.strip().str.zfill(4)
     out["name"] = df[name_col].astype(str).str.strip()
 
     mask = out["code"].str.match(r"^\d{4,5}[A-Z]*$")
